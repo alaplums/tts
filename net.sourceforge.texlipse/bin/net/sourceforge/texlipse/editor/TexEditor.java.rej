@@ -1,0 +1,12 @@
+diff a/net.sourceforge.texlipse/source/net/sourceforge/texlipse/editor/TexEditor.java b/net.sourceforge.texlipse/source/net/sourceforge/texlipse/editor/TexEditor.java	(rejected hunks)
+@@ -444,6 +444,10 @@
+ 					speakCurserModeText(String.valueOf(nextCharacter));
+ 				}	            
+ 			}
++			else if (isCurserKeyPressed && tempLineNumber != lineNumber )
++            {                 
++                speakCurserModeText("New Line"); 
++            }
+ 
+ 		} catch (NumberFormatException e) {
+ 			// TODO Auto-generated catch block
