@@ -1,0 +1,16 @@
+D:\Workspace\TTS_\LatexMath2MathML-master\bin\Debug\log4net.config
+D:\Workspace\TTS_\LatexMath2MathML-master\bin\Debug\favicon.png
+D:\Workspace\TTS_\LatexMath2MathML-master\bin\Debug\styles.css
+D:\Workspace\TTS_\LatexMath2MathML-master\bin\Debug\LatexMath2MathML.dll
+D:\Workspace\TTS_\LatexMath2MathML-master\bin\Debug\LatexMath2MathML.pdb
+D:\Workspace\TTS_\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.dll
+D:\Workspace\TTS_\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.pdb
+D:\Workspace\TTS_\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.csprojResolveAssemblyReference.cache
+D:\Workspace\TTS\LatexMath2MathML-master\bin\Debug\log4net.config
+D:\Workspace\TTS\LatexMath2MathML-master\bin\Debug\favicon.png
+D:\Workspace\TTS\LatexMath2MathML-master\bin\Debug\styles.css
+D:\Workspace\TTS\LatexMath2MathML-master\bin\Debug\LatexMath2MathML.dll
+D:\Workspace\TTS\LatexMath2MathML-master\bin\Debug\LatexMath2MathML.pdb
+D:\Workspace\TTS\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.dll
+D:\Workspace\TTS\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.pdb
+D:\Workspace\TTS\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.csprojResolveAssemblyReference.cache

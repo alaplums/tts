@@ -1,0 +1,2 @@
+Before submitting pull requests please run './valgrind.sh' and make sure tests pass.
+You will need Valgrind (http://valgrind.org/) installed.

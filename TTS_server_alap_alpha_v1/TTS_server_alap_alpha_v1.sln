@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTS_server_alap_alpha_v1", "TTS_server_alap_alpha_v1.csproj", "{F101B5B5-0C5A-447C-8BA8-455622ABAE85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F101B5B5-0C5A-447C-8BA8-455622ABAE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F101B5B5-0C5A-447C-8BA8-455622ABAE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F101B5B5-0C5A-447C-8BA8-455622ABAE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F101B5B5-0C5A-447C-8BA8-455622ABAE85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

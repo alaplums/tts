@@ -1,1 +1,0 @@
-INDEX VERSION 1.129+C:\TeXlipse\texlipse\.metadata\.plugins\org.eclipse.jdt.core
