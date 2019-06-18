@@ -1,2 +1,0 @@
-\documentclass[draft]{book}
-\begin{document
