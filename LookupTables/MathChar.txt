@@ -1,0 +1,29 @@
+{,opening curly bracket
+},closing curly bracket
+<,is less than
+>,is greater than
+=,is equal to
++,plus
+-,minus
+|,vertical bar
+^,raise to power
+.,dot
+~,Tilde
+!,Exclamation mark
+@,At
+#,Hash
+$,Dollar sign
+%,Percent
+&,Ampersand
+*,Asterisk
+(,Open Parenthesis
+),Close Parenthesis
+_,Underscore
+[,Open Bracket
+],Close Bracket
+:,Colon
+;,Semicolon
+\,Backslash
+/,Forward slash
+",double Quote
+',Apostrophe

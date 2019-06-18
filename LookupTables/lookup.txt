@@ -1,0 +1,256 @@
+{,opening curly bracket
+},closing curly bracket
+<,less than
+\leq,is less than and equal to
+\le,is less than and equal to
+\frac,over
+\subset,is proper subset of
+\subseteq,is subset of
+\nsubseteq,is not a subset of
+\not\subset,is not a subset of
+\sqsubset,is a square proper subset of
+\sqsubseteq,is a square subset of
+\preceq,
+>,is greater than
+\geq,is greater than and equal to
+\ge,is greater than and equal to
+\supset,is proper superset
+\supseteq,is superset
+\nsupseteq,is not a superset of
+\not\supset,is not a superset of
+\sqsupset,is a square proper superset
+\sqsupseteq,is a square superset
+\succeq,
+=,is equal to
+\doteq,dot equal
+\equiv,equivalent to
+\approx,approximately equal to
+\partial,partial
+\textrm,
+\simeq,is similar and equal to
+\sim,is similar to
+\propto,is proportional to
+\neq,is not equal to
+\ne,is not equal to
+\parallel,is parallel to
+\asymp,
+\vdash,
+\in,is an element of
+\smile,smile
+\models,model
+\perp,is perpendicular to
+\prec,
+\sphericalangle,spherical angle
+\nparallel,is not parallel to
+\bowtie,
+\dashv,
+\ni,is not an element of
+\frown,
+\notin,is not an element of
+\mid,such that
+\succ,
+\measuredangle,measured angle
++,plus
+-,minus
+\sqrt,square root
+\sum,summation
+\int,integral
+\iint,integral integral
+\iiint,integral integral integral
+\iiiint,integral integral integral integral
+\idotsint,integral elipses integral
+\infty,infinity
+\oint,contour integral
+\blacksquare,end of proof
+\pm,plus minus
+\mp,minus plus
+\times,cartesian product
+\div,divided by
+\ast,asterik
+\star,star
+\dagger,dagger
+\ddagger,double dagger
+\cap,intersection
+\cup,union
+\bigcap,big intersection cap
+\bigcup,big union cup
+\uplus,union plus
+\sqcap,square intersection
+\sqcup,square union
+\vee,or
+\wedge,and
+\cdot,cross product
+\diamond,diamond
+\bigtriangleup,equilateral triangle up
+\bigtriangledown,equilateral triangle down
+\triangleleft,left triangle
+\triangleright,right triangle
+\bigcirc,hollow circle
+\bullet,bullet point
+\oplus,exclusive or
+\ominus,symmetric difference
+\otimes,tensor product of
+\oslash,
+\circ,circle
+\setminus,set difference
+\amalg,amalgamate
+\exists,there exists
+\nexists,not exists
+\forall,for all
+\neg,negation
+\land,logical and
+\lor,logical or
+\rightarrow,rightarrow
+\to,to
+\leftarrow,left arrow
+\Leftarrow,left implication
+\gets,gets
+\mapsto,maps to
+\implies,implies
+\Rightarrow,right implication
+\Leftrightarrow,equivalence 
+\leftrightarrow,equivalence
+\iff,if and only if
+\top,top
+\bot,bottom
+\emptyset,empty set
+\varnothing,empty set
+\o,empty set
+|,absolute bracket
+\uparrow,up arrow
+\downarrow,down arrow
+\Uparrow,
+\Downarrow,
+/,forward slash
+\langle,left angle
+\lceil,left ceil bracket
+\lfloor,left floor bracket
+\backslash,back slash
+\rangle,right angle
+\rceil,right ceil bracket
+\rfloor,right floor bracket
+\alpha,alpha
+\Alpha,Cap alpha
+\beta,beta
+\Beta,Cap beta
+\gamma,gamma
+^,raise to power
+\Gamma,Cap gamma
+\pi,pi
+\Pi,Cap pi
+\phi,phi
+\varphi,
+\mu,mu
+\Phi,Cap phi
+\delta,delta
+\Delta,Cap delta
+\epsilon,epsilon
+\varepsilon,
+\zeta,zeta
+\eta,eta
+\theta,theta
+\Theta,Cap theta
+\vartheta,
+\iota, iota
+\kappa,
+\varkappa,
+\lambda,lambda
+\Lambda,Cap lambda
+\varrho,
+\sigma,sigma
+\Sigma,Cap sigma
+\varsigma,
+\upsilon,
+\Upsilon,
+\omega,omega
+\Omega,Cap omega
+\not,not
+\overline,overline
+\bar,bar
+\psi,psi
+\text,latextext
+\mathbf,bold face
+\mathbf{card},cardinality of set
+\mathcal{P}(S),power set
+\quad,
+\sin,sine
+\cos,cosine
+\tan,tan
+\cot,cot
+\arcsin,arc sine
+\arccos,arc cosine
+\arctan,arc tan
+\arccot,arc cot
+\sinh,sine h
+\cosh,cosine h
+\tanh,tan h
+\coth,cot h
+\sec,secant
+\csc,coo secant
+\lim,limit
+\dv,derivative
+\dd,differential
+\overrightarrow,overline right arrow
+\bmod,mod
+\begin{algorithmic},begin algorithm
+\end{algorithmic},end algorihm
+\begin{algorithm},begin algorithm
+\end{algorithm},end algorihm
+\if,if
+\else,else
+\procedure,procedure
+\while,while
+\endwhile,end of while loop
+\comment,comment
+\endprocedure,end of procedure
+\for,for
+\state,statement
+\textbf,
+\caption,caption
+\label,
+\elsif,else if
+\elseif,else if
+\endif,end of if
+\foreach,For each
+\uif,if
+\uelseif,else if
+\uelse,else
+\kwresult,result
+\kwdata,data
+\tcc,comment
+\tcp,comment
+\kwto,to
+\lif,if
+\lelse,else
+\lfor,for
+\lforeach,for each
+\begin{itemize},begin unordered list
+\end{itemize},end unordered list
+\item,item
+\begin{enumerate},begin ordered list
+\end{enumerate},end ordered list
+\begin{matrix},start of matrix
+\end{matrix},end of matrix
+\begin{smallmatrix},start of matrix
+\end{smallmatrix},end of matrix
+\begin{pmatrix},start of matrix parentheses
+\end{pmatrix},parentheses end of matrix
+\begin{bmatrix},start of matrix bracket
+\end{bmatrix},bracket end of matrix
+\begin{vmatrix},start of matrix vertical bar
+\end{vmatrix},vertical bar end of matrix
+\begin{Vmatrix},start of matrix vertical bar vertical bar
+\end{Vmatrix},vertical bar vertical bar end of matrix
+\begin{array},start of array
+\end{array},end of array
+\dots,dots
+\ldots,l dots
+\cdots,c dots
+\vdots,vertical dots
+\ddots,diagonal dots
+\mbox,mbox
+\left,left
+\right,right
+\alt,alt text
+\begin{figure},begin figure
+\end{figure},end figure
