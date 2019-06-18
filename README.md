@@ -23,6 +23,9 @@ After converting the LaTeX mathematical commands to their appropriate descriptio
 
 Please have a look at our [contribution guide](https://github.com/alaplums/TeXlipse/blob/master/CONTRIBUTING.md "Contribution Guide") if you would like to help out.
 
+### Run TTS
+TTS employs two spearate lookup files for converting LaTeX commands and symbols to their english description. These files can be found at [LookUp Files](https://github.com/alaplums/tts/tree/master/LookupTables) and must be present in your *bin/* folder for successful run of this program.  
+
 # Resources
 * [Official ALAP Website](https://alap.lums.edu.pk/ "ALAP")
 * [Detailed User Guide](https://alap.lums.edu.pk/wp-content/uploads/2018/11/ALAP_UserGuide.pdf "ALAP User Guide")
