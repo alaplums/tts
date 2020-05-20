@@ -1,8 +1,8 @@
-{,opening curly bracket
-},closing curly bracket
+{,open brace
+},close brace
 <,less than
-\leq,is less than and equal to
-\le,is less than and equal to
+\leq,is less than or equal to
+\le,is less than or equal to
 \frac,over
 \subset,is proper subset of
 \subseteq,is subset of
@@ -10,24 +10,24 @@
 \not\subset,is not a subset of
 \sqsubset,is a square proper subset of
 \sqsubseteq,is a square subset of
-\preceq,
+\preceq,is curly less than
 >,is greater than
-\geq,is greater than and equal to
-\ge,is greater than and equal to
+\geq,is greater than or equal to
+\ge,is greater than or equal to
 \supset,is proper superset
 \supseteq,is superset
 \nsupseteq,is not a superset of
 \not\supset,is not a superset of
 \sqsupset,is a square proper superset
 \sqsupseteq,is a square superset
-\succeq,
+\succeq,is curly greater than
 =,is equal to
 \doteq,dot equal
 \equiv,equivalent to
 \approx,approximately equal to
 \partial,partial
 \textrm,
-\simeq,is similar and equal to
+\simeq,is similar or equal to
 \sim,is similar to
 \propto,is proportional to
 \neq,is not equal to
