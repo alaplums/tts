@@ -1,12 +1,12 @@
-{,opening curly bracket
-},closing curly bracket
+{,Open Brace
+},Close Brace
 <,is less than
 >,is greater than
 =,is equal to
 +,plus
 -,minus
 |,vertical bar
-^,raise to power
+^,superscript
 .,dot
 ~,Tilde
 !,Exclamation mark
